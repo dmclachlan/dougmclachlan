@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: <!--more-->
+tags: one two
 ---
 
 This is a test post that doesn't have a header to see what it will do.  
