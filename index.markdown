@@ -4,3 +4,7 @@
 
 layout: home
 ---
+# Welcome
+
+![](plane_bridge.jpg)
+Plane Over Granville Street Bridge
