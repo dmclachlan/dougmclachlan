@@ -6,5 +6,6 @@ layout: home
 ---
 # Welcome
 
-![](/assets/photos/plane_bridge.jpg)
+[![Plane in cloud filled sky flying over Granville Bridge](/assets/photos/plane_bridge.jpg)](/2020/06/13/granville-island-with-leica-cl.html)
 Plane Over Granville Street Bridge
+
