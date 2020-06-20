@@ -30,6 +30,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dougmclachlan
 github_username:  dmclachlan
 
+timezone: America/Vancouver
+
+page_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
