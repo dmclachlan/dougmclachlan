@@ -1,6 +1,8 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 ---
 
 This is a test post that doesn't have a header to see what it will do.  
-It's in a 2020 folder now.
+<!--more-->
+It's in a 2020 folder now. and forever
